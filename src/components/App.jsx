@@ -11,6 +11,7 @@ const initialContacts = [
   { id: 'id-4', name: 'Annie Copeland', number: '227-91-26' },
 ];
 
+//* localstorage key
 const STORAGE_KEY = 'phonebookContacts';
 
 const initialState = {
